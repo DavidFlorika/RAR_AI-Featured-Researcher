@@ -4,7 +4,7 @@
 
 ## 1. Overview
 
-**This project was originally intented for the Kaggle [OpenAi A-to-Z Challenge](https://www.kaggle.com/competitions/openai-to-z-challenge) Competition.**
+**This project was originated for the Kaggle [OpenAi A-to-Z Challenge](https://www.kaggle.com/competitions/openai-to-z-challenge) Competition.**
 
 This project uses GEE(Google Earth Engine) and ChatGPT to search over the Amazonia area in finding possible archeological sites. We used *gpt-4o-mini* in getting acheological feedback for computed data.
 
